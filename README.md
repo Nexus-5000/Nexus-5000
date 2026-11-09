@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.meldns.me/static/logos/logo_transparente.png" alt="Nexus" width="280">
+<img src="https://docs.google.com/u/0/forms-images-rt/AMfapbmA9Qh4gtitmo8h_9orB8a6wKIeZI2WqBFpRRH78DxCstyzrZa6XQrPvBfqfW-9iHo0KLBaSbJO7aDGT3mU1OPVzBdQXXw-ZWtcY0-j2W_D1hrpV1otye70NpqtD2TAGgSrnd_U4oQrkHotH4dDuGpqPSRK7-ZPfCVB84-SF9qUt9E1zvS3dLeY1IjUF6u3DxKAXj6bFr8=w1584" alt="Nexus" width="280">
 
 <br>
 
@@ -26,6 +26,8 @@
 Nexus es un network de Minecraft desarrollado y mantenido por **Nexus0**. Actualmente cuenta con el modo **SCustom** (Survival Custom), una experiencia de supervivencia con contenido personalizado.
 
 El proyecto se construye con una idea clara: **crear**. Desde el servidor hasta la web y las herramientas que lo rodean, todo se desarrolla de forma propia.
+
+Todo en Nexus se hace con **herramientas gratuitas o hechas a mano**.
 
 ---
 
