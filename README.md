@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="Banner.png" alt="Nexus" width="280">
+<img src="Banner.jpeg" alt="Nexus" width="280">
 
 <br>
 
