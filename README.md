@@ -4,7 +4,7 @@
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-Unirse-7C5CE7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/HpCZENfGRM)
+[![Discord](https://img.shields.io/badge/Discord-Unirse-7C5CE7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/HpCZENfGRM)
 [![Web](https://img.shields.io/badge/Web-meldns.me-5DADE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.meldns.me)
 
 # Nexus
@@ -68,7 +68,7 @@ Todo en Nexus se hace con **herramientas gratuitas o hechas a mano**.
 
 ## Contacto
 
-[![Discord](https://img.shields.io/badge/Discord-Unirse-7C5CE7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/HpCZENfGRM)
+[![Discord](https://img.shields.io/badge/Discord-Unirse-7C5CE7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/HpCZENfGRM)
 [![Web](https://img.shields.io/badge/Web-meldns.me-5DADE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.meldns.me)
 [![Correo](https://img.shields.io/badge/Correo-n3xu50000%40gmail.com-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n3xu50000@gmail.com)
 
