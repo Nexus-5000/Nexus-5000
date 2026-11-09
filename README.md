@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://docs.google.com/u/0/forms-images-rt/AMfapbmA9Qh4gtitmo8h_9orB8a6wKIeZI2WqBFpRRH78DxCstyzrZa6XQrPvBfqfW-9iHo0KLBaSbJO7aDGT3mU1OPVzBdQXXw-ZWtcY0-j2W_D1hrpV1otye70NpqtD2TAGgSrnd_U4oQrkHotH4dDuGpqPSRK7-ZPfCVB84-SF9qUt9E1zvS3dLeY1IjUF6u3DxKAXj6bFr8=w1584" alt="Nexus" width="280">
+  
+<img src="banner.png" alt="Nexus" width="280">
 
 <br>
 
